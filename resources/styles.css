@@ -44,5 +44,16 @@ p {
   }
 
   .footer {
-    
+    color: white;
+    background-color: dimgray;
+    text-align: left;
+  }
+
+  .footer a {
+    color: white;
+    font-size: 11px;
+    }
+
+  .footer p {
+    font-size: 11px;
   }
