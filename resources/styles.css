@@ -1,0 +1,48 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.heading {
+  background-image: url(./images/building.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+nav a {
+  color: white;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.NewYork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(./images/building.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+  .footer {
+    
+  }
